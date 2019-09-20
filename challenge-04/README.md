@@ -25,7 +25,7 @@ var isTruthy = function(param) {
 
 var isTruthy = function(param) {
     return !!param;
-    }
+    };
 
 
 // Invoque a função criada acima, passando todos os tipos de valores `falsy`.
