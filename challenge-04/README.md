@@ -75,7 +75,7 @@ var carro = {
 	cor: "Azul",
 	quantasPortas: 4,
 	assentos: 5,
-	quantidadedePessoas: 0
+	quantidadePessoas: 0
 };
 
 /*
